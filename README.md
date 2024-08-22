@@ -93,17 +93,16 @@ Here are the key questions we need to answer:
 - What did we learn?
 
 We discovered that
-1. United State is the highest order sales by country, followed by Ireland, with United Kingdom being the last top sales by country.
-2. Don Flintiff, Nealson Cuttler, Terri Farra, Brenn Dundredge and Allis are the top customers by sales.
-3. 2021 was the year with the highest sales with a sum of **$13,766**, 2020 sales was **$12,118**, 2019 sales was a total of **$12,187**, and lastly 2022 which was the lowest sales with a sum of **$7,063**.
 
- # Recommendations
+1. With the distribution of incidents by race, it was found that the race with the highest distribution of incidents was the white race with a manner of death (shooting or tasered) of about 2476, followed by Black, Hispanic, Asian, Native, and Others with the lowest incidents of about 48.
+  
+2. Upon analyzing the dataset, the trends or patterns of shooting over a period of years, indicated a highest spike in the year 2015 as more incidents were recorded in that year with a count of 965, and the lowest year was 2020 with a count of 374.
+   
+3. According to the findings, the relationship between gender and mental illness indicates that when mental illness was false, males had a percentage of about 95.79 compared to females, who had a percentage of about 4.0, and when mental illness was true, males still had the highest number with 93.74% compared to females with 6.26%. In summary, we can conclude that, with regard to the incident, there were more males than females.
+   
+4. The pie chart in the power BI report shows the relationship between the body camera and the count of flee individuals. There is a noticeable fact that the count of flee was high, with a percentage of 88.19 when the body camera was false and 11.81% when the body camera was true. In summary, we can conclude that more individuals fled when the body camera was off compared to the individuals who fled when the body camera was on. This can indicate trust issues on the side of the policy.
 
-- What do you recommend based on the insights gathered?
-
-1. United State is the highest top sales by country, therefore i recommend we take more orders from United State compared to other countries. 
-2. With regards to the top customers by sales, it may be worth considering collaborating or give out special offers, as the potential of return on investments is significantly high in the longrun.
-3. Regarding the coffee types, the findings suggest that since Libirical and Arabica had the highest sales over the years, with Arabica reaching $841 in 2021 and Libirical achieving a total of about $844 in 2022, we recommend that the coffee shop produce more of these to maximize sales. Additionally, considering the fluctuation in sales from 2019 to 2022, we suggest analyzing the year with the highest sales and identifying the factors that contributed to that success to apply them in future years.
+5. With regard to the method of killing, we can conclude that shooting was used more in the incident with a percentage of 95.71, compared to shooting and tasering, which was 4.29%.
 
 
 # Conclusion
