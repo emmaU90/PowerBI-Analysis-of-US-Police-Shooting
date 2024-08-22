@@ -7,7 +7,6 @@
 # Table of contents
 
 - [Objective](#objective)
-- [Data source](#data-source)
 - [Stages](#stages)
 - [Data cleaning](#data-cleaning)
 - [Visualization](#visualization)
@@ -21,30 +20,14 @@
 
 - What is the key main point?
 
-The aim of this project is to build an interactive microsoft excel dashboard to allow the users to quickly identify trends in the coffee sales as well as perform exploratory data analysis on the available datasets to generate actionable insights and recommendations.
+This analysis aims to explore recent US police killings, a hot topic that came into being, "Racism". This data has been gathered to take out some insights and analyze the story around racism in America.  The dataset contains basic data about people like their name, age, gender, and race. 
+
+Along with it, is the shooting/killing information, like the date of the event, where it happened? How they were shot? Did they attack? Were they holding weapons? Did they show any mental illness? Was the policeman wearing a camera? was the incident recorded? Did the suspect flee? Apart from that, a category column of which weapons were used by the suspect.
 
 - What is the ideal solution?
 
-To create a dashboard that provides insights into the coffee sales anaysis, which includes their
+To create a dashboard that provides insights into the analysis.
 
-- total sales 
-- time trend anaysis of coffee sales overtime
-- top customer
-- top country orders
-
-This will help the coffee shop to make informed decisions on how to maximum its orders.
-
-# Data source
-
-- What data is needed to achieve this objective?
-
-We need data on the coffe orders, customers and products which includes their
-
-- order country
-- time period
-- coffee type
-- customers, order and product ID
-- size
 
 # Stages
 
@@ -54,9 +37,10 @@ We need data on the coffe orders, customers and products which includes their
 
 # Data cleaning
 
-- What do we expect the clean data to look like?
-- What should it contain?
-- What limitations should we apply to it?
+- Trends in police shootings over time
+Breakdown of shootings by race, age, and gender
+Geographic distribution of shootings
+Circumstances surrounding the shootings
 
 The aim is to refine our dataset to ensure it is structured and ready for analysis.
 
