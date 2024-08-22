@@ -72,14 +72,20 @@ Here are the key questions we need to answer:
 - What method of killing was used more during the incident?
 
 
-### 1. Who are the top sales by country?
-![Visualization](assets/images/CountrySumOfSales.PNG)
+### 1. What is the distribution of incidents by race?
+![Visualization](assets/images/race.PNG)
 
-### 2. Top 5 customers by sales?
-![Visualization](assets/images/TopCustomer.PNG)
+### 2. What are the trends or patterns of shooting over a period of years?
+![Visualization](assets/images/Trend.PNG)
 
-### 3. top sale over the years?
-![Visualization](assets/images/timetrend.PNG)
+### 3. What is the correlation between gender and mental illness?
+![Visualization](assets/images/Mental-illness.PNG)
+
+### 4. Is there a correlation between recorded incidents and the number of those who flee under the incidents?
+![Visualization](assets/images/Recorded.PNG)
+
+### 5. What method of killing was used more during the incident?
+![Visualization](assets/images/5.PNG)
 
 
 # Discovery
