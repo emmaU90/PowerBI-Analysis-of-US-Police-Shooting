@@ -28,34 +28,35 @@ Along with it, is the shooting/killing information, like the date of the event, 
 
 To create a dashboard that provides insights into the analysis.
 
-
 # Stages
 
-- Examine both product, order and customer datasets for inconsistencies, missing values, outliers, correctly identify categorical and numerical data.
-- Define metrics such as total sales, time trend, and the top sales by country.
-- Explore the data, create charts and graphs to visualise trends and insights for business recommendations.
-
+- Download the .pbix file together with the dataset from this repository.
+- Open the file in Power BI Desktop.
+- (Optional) If using a different data source, connect your data to the existing model using Power Query Editor.
+- Explore the report pages to gain insights into police shootings.
+- 
 # Data cleaning
 
-- Trends in police shootings over time
-Breakdown of shootings by race, age, and gender
-Geographic distribution of shootings
-Circumstances surrounding the shootings
+- What do we expect the clean data to look like?
+- What should it contain?
+- What limitations should we apply to it?
 
 The aim is to refine our dataset to ensure it is structured and ready for analysis.
 
 The cleaned data should meet the following criteria and constraints:
+
 - Only relevant columns should be retained.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records.
+
 
 # Visualization
 
 ## Results
 - What does the dashboard look like?
   
-![Visualization](assets/images/Coffeesales-Dashboard.PNG)
-This shows the coffee sales dashboard.
+![Visualization](assets/images/Dashboard.PNG)
+This shows the US police shooting dashboard.
 
 # Analysis
 
