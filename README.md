@@ -69,6 +69,7 @@ Here are the key questions we need to answer:
 - What are the trends or patterns of shooting over a period of years?
 - What is the correlation between gender and mental illness?
 - Is there a correlation between recorded incidents and the number of those who flee under the incidents?
+- What method of killing was used more during the incident?
 
 
 ### 1. Who are the top sales by country?
