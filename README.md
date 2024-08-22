@@ -1,8 +1,8 @@
 # PowerBI-Analysis-of-US-Police-Shootings
 
-# Tittle: Analysis of Coffee Sale Dashboard
+# Tittle: US Police Shootings
 
-![Coffee-Sales-Anaysis](assets/images/istockphoto-1504611854-1024x1024.jpg)
+![US-police-shootings-Anaysis](assets/images/shooting.png)
 
 # Table of contents
 
