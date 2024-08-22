@@ -56,19 +56,20 @@ The cleaned data should meet the following criteria and constraints:
 - What does the dashboard look like?
   
 ![Visualization](assets/images/Dashboard.PNG)
-This shows the US police shooting dashboard.
 
 # Analysis
 
 ## Findings
 - What did we find?
-For this analysis, we’re going to focus on the questions below to get the information we need for our client.
+For this analysis, we’re going to focus on the questions below to get the information we need for the analysis.
 
-Here are the key questions we need to answer for our client:
+Here are the key questions we need to answer:
 
-1. Who are the top sales by country?
-2. Top 5 customers by sales?
-3. top sale over the years?
+- What is the distribution of incidents by race?
+- What are the trends or patterns of shooting over a period of years?
+- What is the correlation between gender and mental illness?
+- Is there a correlation between recorded incidents and the number of those who flee under the incidents?
+
 
 ### 1. Who are the top sales by country?
 ![Visualization](assets/images/CountrySumOfSales.PNG)
