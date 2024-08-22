@@ -104,8 +104,32 @@ We discovered that
 
 5. With regard to the method of killing, we can conclude that shooting was used more in the incident with a percentage of 95.71, compared to shooting and tasering, which was 4.29%.
 
+# Causation
+
+1. Distribution by Race: The data indicates that the white race has the highest number of incidents, followed by Black and Hispanic individuals. This distribution raises important questions about the underlying factors contributing to these disparities, such as socioeconomic conditions, systemic racism, or law enforcement practices.
+
+2. Trends Over Time: The significant spike in incidents in 2015 followed by a decline in 2020 suggests possible shifts in law enforcement policies, public awareness, or reporting practices. The year 2020, in particular, was marked by social unrest and movements like Black Lives Matter, which may have influenced these trends.
+
+3. Gender and Mental Illness Correlation: The data shows that a higher percentage of males were involved in incidents regardless of mental illness status. This suggests that males are disproportionately represented in these incidents, possibly due to societal roles, behaviors, or law enforcement biases.
+
+4. Recorded Incidents and Fleeing Suspects: The analysis indicates that suspects were more likely to flee when the body camera was off, suggesting potential trust issues between the public and law enforcement. The presence of body cameras may act as a deterrent to fleeing, reflecting concerns about accountability and transparency.
+
+5. Method of Killing: The overwhelming use of shooting as the method of killing raises concerns about the proportionality and necessity of force used in these incidents. The limited use of tasering suggests a preference for lethal force in many situations.
+
+
+# Recommendations
+- What do you recommend based on the insights gathered?
+
+1. Policy Reform: Given the racial disparities in the distribution of incidents, there should be a focused review of law enforcement practices to identify and address potential biases. This could involve revising use-of-force policies, increasing cultural competency training, and ensuring more equitable policing.
+
+2. Mental Health Support: The data highlights the need for better mental health support and crisis intervention training for law enforcement officers. Since mental illness is a factor in many incidents, integrating mental health professionals into policing could help de-escalate situations and reduce the use of lethal force.
+
+3. Body Camera Utilization: The correlation between fleeing suspects and the absence of body cameras underscores the importance of widespread body camera usage. Ensuring that all officers wear and activate body cameras during interactions with the public could enhance accountability and build trust within communities.
+
+4. Non-Lethal Force Emphasis: The high percentage of shootings suggests that law enforcement should prioritize non-lethal methods, such as tasers or other less-lethal tools, especially in situations where the threat level does not warrant lethal force. Training programs should emphasize de-escalation techniques and alternatives to shooting.
+
+5. Community Engagement: To address the underlying issues contributing to these incidents, law enforcement agencies should engage with communities, particularly those most affected, to build trust, improve relationships, and work collaboratively to create safer environments.
 
 # Conclusion
 
-Base on the findings and analysis of the coffee sale dashcoard, we can conclude that the project showcases the effectiveness of exploratory data analysis in providing useful insights in dataset that involved the customers, products and the orders.
-
+Base on the findings and analysis of the US police killings dataset, we can conclude that the project reveals several key insights regarding the distribution of incidents by race, trends over time, and the correlation between gender, mental illness, and recorded incidents which showcases the effectiveness of exploratory data analysis in providing useful insights in the dataset.
