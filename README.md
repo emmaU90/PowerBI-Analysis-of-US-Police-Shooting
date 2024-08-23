@@ -104,7 +104,7 @@ We discovered that
 
 5. With regard to the method of killing, we can conclude that shooting was used more in the incident with a percentage of 95.71, compared to shooting and tasering, which was 4.29%.
 
-# Causation
+# Possible Correlation
 
 1. Distribution by Race: The data indicates that the white race has the highest number of incidents, followed by Black and Hispanic individuals. This distribution raises important questions about the underlying factors contributing to these disparities, such as socioeconomic conditions, systemic racism, or law enforcement practices.
 
